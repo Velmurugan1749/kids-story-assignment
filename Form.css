@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: lightcyan;
+}
+label{
+    display: block;
+}
+form{
+    border:2px solid green ;
+    width: 30%;
+    left: 35%;
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+    line-height: 1.5;
+}
